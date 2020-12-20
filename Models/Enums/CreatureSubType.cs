@@ -19,6 +19,7 @@ namespace MagicTheGathering
         Beast,
         Centaur,
         Shaman,
+        Artifact_Creature,
         Unlisted
     }
 }
