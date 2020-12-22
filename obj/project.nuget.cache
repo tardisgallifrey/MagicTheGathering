@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xu2r4R4y3VjBaqAPvaBCG89NgzT5vlwlSlF6GZ6KBZ1RwPyCrlEY5fliiPnl0hq43nI1PJR3sOxkBmBm9XJLHg==",
+  "dgSpecHash": "ad5TE+DUy/rGdU723RKJrAwUiy7nndHA/GLcW0lUcijYcTZJIQNAWbKAizOudljP8Q3NiPw3eXd0LNsM9ISPTw==",
   "success": true,
   "projectFilePath": "/home/tardis1/MagicTheGathering/MagicTheGathering.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.1/microsoft.entityframeworkcore.abstractions.5.0.1.nupkg.sha512",
     "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.1/microsoft.entityframeworkcore.analyzers.5.0.1.nupkg.sha512",
     "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.design/5.0.1/microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.inmemory/5.0.1/microsoft.entityframeworkcore.inmemory.5.0.1.nupkg.sha512",
     "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.1/microsoft.entityframeworkcore.relational.5.0.1.nupkg.sha512",
     "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.sqlserver/5.0.1/microsoft.entityframeworkcore.sqlserver.5.0.1.nupkg.sha512",
     "/home/tardis1/.nuget/packages/microsoft.entityframeworkcore.tools/5.0.1/microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",

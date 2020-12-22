@@ -62,3 +62,4 @@
 /home/tardis1/MagicTheGathering/obj/Debug/net5.0/ref/MagicTheGathering.dll
 /home/tardis1/MagicTheGathering/obj/Debug/net5.0/MagicTheGathering.pdb
 /home/tardis1/MagicTheGathering/obj/Debug/net5.0/MagicTheGathering.genruntimeconfig.cache
+/home/tardis1/MagicTheGathering/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
